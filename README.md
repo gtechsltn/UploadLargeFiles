@@ -255,6 +255,8 @@ https://github.com/dotnet/AspNetCore.Docs/tree/main/aspnetcore/mvc/models/file-u
 Upload large files with .net core
 https://medium.com/@agustinafassina_92108/upload-large-files-with-net-core-4170acc02f93
 https://github.com/gtechsltn/UploadLargeFiles
+Dealing with large files in ASP.NET Web API
+https://www.strathweb.com/2012/09/dealing-with-large-files-in-asp-net-web-api/
 Article 3/ Most popular .NET Libraries every developer should know
 https://medium.com/dotnet-hub/most-popular-c-net-core-libraries-every-developer-should-know-5e38c1a63830
 Best .NET libraries — Top useful libraries every .NET developers use in their projects.
